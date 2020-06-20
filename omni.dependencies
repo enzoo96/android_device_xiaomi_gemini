@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "isouzz/android_device_xiaomi_msm8996-common",
+    "target_path": "device/xiaomi/msm8996-common",
+    "revision": "android-10"
+  }
+]
